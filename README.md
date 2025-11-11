@@ -105,5 +105,5 @@ This project is licensed under the **MIT License** – feel free to use and modi
 ---
 
 ## 👨‍💻 Author
-- **Kushal Kush** – [GitHub](https://github.com/Kushalkush-dev)
+- **Chandru** – [GitHub](https://github.com/Chandru142)
 
