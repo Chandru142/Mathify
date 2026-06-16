@@ -1,6 +1,6 @@
-# ✨ Mathify-AI
+# ✨ Maths-AI
 
-Mathify-AI is an intelligent **handwritten math problem solver** that lets users draw equations on a digital canvas.  
+Maths-AI is an intelligent **handwritten math problem solver** that lets users draw equations on a digital canvas.  
 The drawing is processed and sent to the backend, where an AI model interprets the problem and returns the solution in **LaTeX** format, beautifully rendered with **MathJax**.
 
 This project was built as part of an academic submission and demonstrates the fusion of **AI, React, and backend APIs** to solve real-world mathematical problems.
@@ -27,7 +27,7 @@ This project was built as part of an academic submission and demonstrates the fu
 
 ## 📂 Project Structure
 ```
-Mathify-Ai/
+Maths-AI/
 │
 ├── Backend/          # Express backend for AI API calls
 ├── public/           # Static assets
@@ -47,8 +47,8 @@ Mathify-Ai/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Kushalkush-dev/Mathify-Ai.git
-   cd Mathify-Ai
+   git clone https://github.com/Chandru142/Maths-AI.git
+   cd Maths-AI
    ```
 
 2. **Install dependencies**
